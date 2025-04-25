@@ -10,6 +10,7 @@ env:
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: a9e37f1b-c857-43ed-93d2-fd751b3b1402
   WEBAPP-NAME: eshoponweb-webapp-RUP
+  
 
 jobs:
   #Build, test and publish .net web project in repository
